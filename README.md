@@ -1,20 +1,23 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
 ![Tool Logo](Image filename)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
+# Introduction to Open Refine
+This workshop is meant to give you a basic foundation on how to use the tool and navigate the interface.  It will cover:
+- How to run the Open Refine tool
+- How to use the Facet and Filter features to identify errors
+- How to split and join columns of your data
+- How to use GREL commands on your data
+- And how to export your data back out of Open Refine
 
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop, you will need to download and unzip the Open Refine package. The steps to do this are:
+- Go to the [downloads page for Open Refine](https://openrefine.org/download.html)
+- Click the Highlighted text that represents your operating system (If you are using windows and are unsure if you have java, choose the option that comes with Java)
+- Save the file to your computer in a location that you have access to
+- Unzip the file using your preferred zipping tool (right click on the folder and choose the program to unzip with like 7zip or WinZip)
+- (Optional) Make a shortcut on your desktop by opening the folder, right clicking openrefine.exe (blue gem symbol) and  clicking "create shortcut"
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
 
 ## Helpful Materials
 Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
