@@ -1,4 +1,4 @@
-![Tool Logo](Image filename)
+![Tool Logo](Intro-Open-Refine.jpg)
 
 
 # Introduction to Open Refine
