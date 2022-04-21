@@ -17,6 +17,7 @@ In preparation for this workshop, you will need to download and unzip the Open R
 - Unzip the file using your preferred zipping tool (right click on the folder and choose the program to unzip with like 7zip or WinZip)
 - (Optional) Make a shortcut on your desktop by opening the folder, right clicking openrefine.exe (blue gem symbol) and  clicking "create shortcut"
 
+You will also need to download the dataset for the workshop found [HERE](https://github.com/BrockDSL/Introduction-to-Open-Refine/blob/master/Book%20list%201.xlsx)
 
 
 ## Helpful Materials
