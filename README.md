@@ -30,22 +30,42 @@ A great resource to keep handy when working in Open Refine is the [Open Refine M
 **Task Set #1**  
 1. Run Open Refine  
 2. Connect to the "BookList1.xlsx" data  
-3. Check that the settings are correct and click “Create Project”  
-4. When you are done type “PROJECT CREATED!!” in the chat to let me know that you are ready to move on  
+3. Check that the settings are correct and click "Create Project"  
+4. When you are done type "PROJECT CREATED!!" in the chat to let me know that you are ready to move on  
 
   
 **Task Set #2**  
+1. Make a text facet for Book Title using the dropdown (Facet>Text Facet) then sort it by count instead of name  
+2. Remove extra spaces by going to the Book Title dropdown (Edit Cells>Common Transform>First option)  
+3. Cluster results and merge similar fields  
+4. Close the text facet and then type "TITLES CLEANED" into the chat  
 
 
   
 **Task Set #3**  
 
+1. Split the multi-valued cells in Author (Dropdown>Edit cells>Split multi-valued cells)  
+2. Clean the data by trimming whitespace and clustering (remember to use both ngram-fingerprint and metaphone3)  
+3. Switch the view to show records instead of rows  
+4. Combine your split cells (Dropdown>Edit cells>Join multi-valued cells)  
+5. Close your facet and type "AUTHORS CLEAR!!!" into the chat  
 
 
+  
+**Task Set #4**  
+
+1. Open the transform window for Publication Date using Dropdown>Edit Cells>Transform  
+2. Remove the (US) and (UK) terms using the .replace command  
+3. Remove the whitespace using the .trim command  
+4. Replace the .0 with blanks  
+4. Grab just the year using the .substring command then click OK to make the changes  
+5. When you are done type "GREL MASTERED" into the chat  
+
+  
 
 ----
 ## Next Steps
-Once you have finished this workshop, the next step would be to try cleaning some of your own data with Open Refine!  If you don't have any datasets of your own, you can practice on the second book list found [HERE]() or go find some free data to practice on from a site like [Kaggle.com](https://www.kaggle.com/).
+Once you have finished this workshop, the next step would be to try cleaning some of your own data with Open Refine!  If you don't have any datasets of your own, you can practice on the second book list found [HERE](https://github.com/BrockDSL/Introduction-to-Open-Refine/blob/master/BookList2.xlsx) or go find some free data to practice on from a site like [Kaggle.com](https://www.kaggle.com/).
  
  
  
