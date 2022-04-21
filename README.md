@@ -7,7 +7,9 @@ This workshop is meant to give you a basic foundation on how to use the tool and
 - How to use the Facet and Filter features to identify errors
 - How to split and join columns of your data
 - How to use GREL commands on your data
-- And how to export your data back out of Open Refine
+- And how to export your data back out of Open Refine  
+  
+  
 ----
 ## Setup Instructions
 In preparation for this workshop, you will need to download and unzip the Open Refine package. The steps to do this are:
