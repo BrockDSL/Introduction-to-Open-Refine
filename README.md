@@ -21,11 +21,10 @@ You will also need to download the dataset for the workshop found [HERE](https:/
 
 
 ## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
+A great resource to keep handy when working in Open Refin is the [Open Refine Manual](https://docs.openrefine.org/) which covers every aspect of the tool from the most basic [data transformations](https://docs.openrefine.org/manual/transforming), to complex [GREL functions](https://docs.openrefine.org/manual/grelfunctions).
 
-## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
-
+## Next Steps
+Once you have finished this workshop, the next step would be to try cleaning some of your own data with Open Refine!  If you don't have any datasets of your own, you can practice on the second book list found [HERE]() or go find some free data to practice on from a site like [Kaggle.com](https://www.kaggle.com/).
  
  
  
