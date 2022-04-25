@@ -9,6 +9,7 @@ This workshop is meant to give you a basic foundation on how to use the tool and
 - How to use GREL commands on your data
 - And how to export your data back out of Open Refine  
   
+*Estimated workshop length: 1.5 hours*
   
 ----
 ## Setup Instructions
